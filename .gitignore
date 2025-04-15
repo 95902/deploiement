@@ -1,0 +1,6 @@
+/docker-compose.yaml
+/dockerfile
+/env
+/requirements.txt
+/streamlite_env
+/__pycache__
